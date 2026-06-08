@@ -1,0 +1,11 @@
+{
+    "matricula": "2026AB12",
+    "nome": "Luana Almeida",
+    "idade": 19,
+    "curso": [8.5, 9.0, 7.5, 5.2],
+    "bolsita": true, 
+        "endereco":{
+        "cidade": "Curitiba",
+        "estado": "Pr"
+    }
+}
