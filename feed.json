@@ -12,7 +12,7 @@
         },
         "comentarios": [
             {"usuario": "Lopes Code", "texto": "Parabéns! Qual foi o projeto?"},
-            {"usuario2": "Bia Tech", "Incrível!!!! <3 Você me inspira muito 🤩🤩🤩" }
+            {"usuario2": "Bia Tech",  "texto": "Incrível!!!! <3 Você me inspira muito 🤩🤩🤩" }
         ]
     }
 ]
